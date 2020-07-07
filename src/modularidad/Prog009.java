@@ -9,7 +9,7 @@ package modularidad;
  *
  * @author JEREMY
  */
-public class Prog09 {
+public class Prog009 {
     public static String miuniversidad(){
         String universidad="Universidad Nacional Tecnologica de Lima Sur";
         return universidad;
